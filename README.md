@@ -1,5 +1,7 @@
 #### Excel_Applications_2.github.io
 
+##### Open gif files to see instructions on how to use the application or just keep reading --
+
 ##### Data Importer -
 this application is designed to automate the process of data extraction from multiple files with a specific range and load into 1 new spreadsheet.
 
@@ -19,4 +21,4 @@ When the 'Ralphie Reactor' file opens and 'Import range:' input box appears, use
 
 Data is loaded into 'Data Importer' 'Data' sheet, other sheets are updated, generates graphics, according to 'Data' sheet data.
 
-##### Code can be adjusted, depending on needs.
+##### Code can be adjusted, depending on the needs.
