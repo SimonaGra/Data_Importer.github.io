@@ -5,7 +5,7 @@
 ##### Data Importer -
 this application is designed to automate the process of data extraction from multiple files with a specific range and load into 1 new spreadsheet.
 
-For this example data is being used from the 'RR.zip' which contains sample files in csv and xlsx formats.
+For this example data is being used from the 'RR.zip' which contains sample files in csv and xlsx formats. User wants to extract reactor's temperature, ph, and co2 concentration levels from the multiple spreadsheets, but same range.
 
 For the application to work, user must download and unzip 'RR.zip' folder, which contains 'Ralphie Reactor' folder with sample spreadsheets.
 
