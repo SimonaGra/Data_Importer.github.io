@@ -18,3 +18,5 @@ and select csv files to open.
 When the 'Ralphie Reactor' file opens and 'Import range:' input box appears, user must select range "B3:B6" ($B$3:$B$6) and press OK.
 
 Data is loaded into 'Data Importer' 'Data' sheet, other sheets are updated, generates graphics, according to 'Data' sheet data.
+
+##### Code can be adjusted, depending on needs.
