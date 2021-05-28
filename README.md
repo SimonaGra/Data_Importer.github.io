@@ -1,6 +1,6 @@
 #### Excel_Applications_2.github.io
 
-##### Open gif files to see instructions on how to use the application or just keep reading --
+##### Open gif files to see instructions on how to use the application or keep reading --
 
 ##### Data Importer -
 this application is designed to automate the process of data extraction from multiple files with a specific range and load into 1 new spreadsheet.
