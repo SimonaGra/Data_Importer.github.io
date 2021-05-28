@@ -1,9 +1,7 @@
-#### Excel_Applications_2.github.io
-
 ##### Open gif files to see instructions on how to use the application or keep reading --
 
 ##### Data Importer -
-this application is designed to automate the process of data extraction from multiple files with a specific range and load into 1 new spreadsheet.
+this application was designed for an assignment in order to automate the process of data extraction from multiple files with a specific range and load into 1 new spreadsheet.
 
 For this example data is being used from the 'RR.zip' which contains sample files in csv and xlsx formats of Ralphie Reactor hourly reports. User wants to extract reactor's temperature, ph, and co2 concentration levels from the multiple spreadsheets, but same range.
 
@@ -21,4 +19,4 @@ When the 'Ralphie Reactor' file opens and 'Import range:' input box appears, use
 
 Data is loaded into 'Data Importer' 'Data' sheet, other sheets are updated, generates graphics, according to 'Data' sheet data.
 
-##### Code can be adjusted, depending on the needs.
+##### This is just an example, code can be adjusted.
