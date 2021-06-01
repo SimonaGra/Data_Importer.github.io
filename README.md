@@ -19,4 +19,4 @@ When the 'Ralphie Reactor' file opens and 'Import range:' input box appears, use
 
 Data is loaded into 'Data Importer' 'Data' sheet, other sheets are updated, generates graphics, according to 'Data' sheet data.
 
-##### This is just an example, code can be adjusted.
+##### This application is just an example. Code can be adjusted and modified.
